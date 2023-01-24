@@ -1,2 +1,2 @@
 # NLW-SETUP 
-  <h1> Olá </h1>
+  <h1 style="color='orange'"> Olá </h1>
