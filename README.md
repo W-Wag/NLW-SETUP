@@ -1,7 +1,7 @@
 # NLW-SETUP
 ![Logo](https://raw.githubusercontent.com/W-Wag/NLW-SETUP/048cc0e862b63a6cbec37c34b322705fd02c0dfa/web/src/assets/logo.svg)
 
-Um projeto feito apartir do evento NLW da [rocketseat](https://rocketseat.com.br) onde e feito uma aplicação web e mobile de registro de hábitos. Sendo possivel criar novos hábitos, escolhendo os dias determinados que um hábito irar aparecer, e um gráfico apartir dos hábitos em cada dia do mês, segue as imagens abaixo.
+Um projeto feito apartir do evento NLW da [rocketseat](https://rocketseat.com.br) onde e feito uma aplicação web e mobile usando [React](https://reactjs.org/docs) e [React Native](https://reactnative.dev/docs/) de registro de hábitos. Sendo possivel criar novos hábitos, escolhendo os dias determinados que um hábito irar aparecer, e um gráfico apartir dos hábitos em cada dia do mês, segue as imagens abaixo.
 
 ## Screenshots
 
